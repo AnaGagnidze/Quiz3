@@ -1,5 +1,4 @@
 # NASA's API
-Quiz for Python curse about connecting to APIs and manipulating data
 
 In this quiz, I usec NASA's API names Mars Rover Photos. This API contains image data gathered by NASA's rovers on mars.
 

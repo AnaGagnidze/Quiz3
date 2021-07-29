@@ -1,5 +1,7 @@
 
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/77617112/127533768-dcc02850-7822-481b-b54f-edfe807dd524.png" /></div>.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77617112/127533768-dcc02850-7822-481b-b54f-edfe807dd524.png" />
+</p>
 
 # Podcast App
 Podcast is an Android application for discovering new podcasts and listening to them whenever you want

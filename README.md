@@ -31,5 +31,5 @@ At this point, you only need Android Studio to run this application and see the 
 Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />
 
 ## What to expect
-<img src="https://ibb.co/g9LQyvz" width="30%" hspace="1%">
+<img src="https://user-images.githubusercontent.com/77617112/127532819-fb943ae8-7c96-44ba-9e38-6af7c57f13c7.png" width="30%" hspace="1%">
 

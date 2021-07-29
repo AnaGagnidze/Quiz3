@@ -15,11 +15,11 @@ After installing the application, you will have to create an account in order to
 Afterwards, home page is shown where popular podcasts are displayed. Application also has a feature of searching podcasts by genres and searching them by their name.
 You will be able to save your favourite podcasts in your profile, so that you'll have an easy access to them.
 
-## Platform and language used.
-Android Studio, Kotlin
-
 ## About API
 We used Listen Notes' [Listen API: Podcast Search & Directory API](https://www.listennotes.com/api/)
+
+## Platform and language used.
+Android Studio, Kotlin
 
 ## Libraries used
 * Retrofit

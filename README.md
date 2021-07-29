@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/77617112/127533324-8080c96d-d13b-4005-bd62-3e92e647906d.png" width="30%" hspace="1%">
+
 # Podcast App
 Podcast is an Android application for discovering new podcasts and listening to them whenever you want
 

@@ -27,7 +27,7 @@ Android Studio, Kotlin
 * Glide
 * Room
 * Firebase
-* Exo Player
+* Media Player
 
 ## Requirements
 At this point, you only need Android Studio to run this application and see the existing functionalities.

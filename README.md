@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77617112/127533768-dcc02850-7822-481b-b54f-edfe807dd524.png" />
+  <img src="https://user-images.githubusercontent.com/77617112/127533768-dcc02850-7822-481b-b54f-edfe807dd524.png" height="200" width="200" />
 </p>
 
 # Podcast App

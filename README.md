@@ -3,8 +3,8 @@
   <img src="https://user-images.githubusercontent.com/77617112/127533768-dcc02850-7822-481b-b54f-edfe807dd524.png" height="120" width="120" />
 </p>
 
-# Podcast App
-Podcast is an Android application for discovering new podcasts and listening to them whenever you want
+# Radio Station
+Radio Station is an Android application for discovering new podcasts and listening to them whenever you want
 
 ## Motivation behind the project
 This application was made for a TBC Android Bootcamp final project. Both contributors greatly enjoy listening to podcasts when they have free time, so they made 

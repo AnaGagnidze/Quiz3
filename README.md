@@ -1,14 +1,36 @@
-# NASA's API
+# Podcast App
+Podcast is an Android application for discovering new podcasts and listening to them whenever you want
 
-In this quiz, I usec NASA's API names Mars Rover Photos. This API contains image data gathered by NASA's rovers on mars.
+## Motivation behind the project
+This application was made for a TBC Android Bootcamp final project. Both contributors greatly enjoy listening to podcasts when they have free time, so they made 
+an application for it to improve their skillset while creating something they both like.
 
-Firstly, I send request to the API (user inputs the desired date they want to see pictures from), afterwards, I check the status code and headers of the response. 
-Then work with json file and convert it to python's dictionary to work with it better. (I use json module's loads and dumps functions)
+## How to use it
+After installing the application, you will have to create an account in order to have an access to the podcasts. 
+Afterwards, home page is shown where popular podcasts are displayed. Application also has a feature of searching podcasts by genres and searching them by their name.
+You will be able to save your favourite podcasts in your profile, so that you'll have an easy access to them.
 
-Second part of the code saves the information in json file format using dump function.
+## Platform and language used.
+Android Studio, Kotlin
 
-Lastly, program connects to the database and creates a table names mars. Mars has three colums: date, rover's name and photo link.
-I use for loop to get the desired information from the dictionary and insert it into database. In this for loop I also print out 
-date and the photo's link for the user to see. Then the database closes.
+## Libraries used
+* Navigation
+* Hilt
+* Coroutines
+* Retrofit
+* Moshi
+* Glide
+* Room
+* Firebase
+* Exo Player
 
-I worked in Pycharm and used DB Browser(Sqlite).
+## Requirements
+At this point, you only need Android Studio to run this application and see the existing functionalities.
+
+## What to expect
+
+<img src="https://ibb.co/g9LQyvz" width="30%" hspace="1%">
+
+## Contributors
+Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />![225835403_379116843635560_708355392685563468_n](https://user-images.githubusercontent.com/77617112/127531870-181fdbf5-83ef-4fe8-8ba5-cf71b69e17fd.png)
+

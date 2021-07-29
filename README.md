@@ -29,7 +29,7 @@ At this point, you only need Android Studio to run this application and see the 
 
 ## What to expect
 
-<img src="https://ibb.co/g9LQyvz" width="30%" hspace="1%">
+![Fave Lyric Logo](https://ibb.co/g9LQyvz)
 
 ## Contributors
 Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />![225835403_379116843635560_708355392685563468_n](https://user-images.githubusercontent.com/77617112/127531870-181fdbf5-83ef-4fe8-8ba5-cf71b69e17fd.png)

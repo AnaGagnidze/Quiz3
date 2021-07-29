@@ -28,7 +28,7 @@ Android Studio, Kotlin
 At this point, you only need Android Studio to run this application and see the existing functionalities.
 
 ## Contributors
-Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />![225835403_379116843635560_708355392685563468_n](https://user-images.githubusercontent.com/77617112/127531870-181fdbf5-83ef-4fe8-8ba5-cf71b69e17fd.png)
+Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />
 
 ## What to expect
 <img src="https://cloud.githubusercontent.com/assets/2640813/11317803/e6e65fbe-904c-11e5-9612-c5ee6db88b5b.png" width="30%" hspace="1%">

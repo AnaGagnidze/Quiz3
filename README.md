@@ -18,10 +18,10 @@ You will be able to save your favourite podcasts in your profile, so that you'll
 ## Platform and language used.
 Android Studio, Kotlin
 
+## About API
+We used Listen Notes' [Listen API: Podcast Search & Directory API](https://www.listennotes.com/api/)
+
 ## Libraries used
-* Navigation
-* Hilt
-* Coroutines
 * Retrofit
 * Moshi
 * Glide
@@ -32,9 +32,9 @@ Android Studio, Kotlin
 ## Requirements
 At this point, you only need Android Studio to run this application and see the existing functionalities.
 
-## Contributors
-Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />
-
 ## What to expect
 <img src="https://user-images.githubusercontent.com/77617112/127532819-fb943ae8-7c96-44ba-9e38-6af7c57f13c7.png" width="30%" hspace="1%">
 
+
+## Contributors
+Application was made by *Temur Khatiashvili*  and *Ana Gagnidze* <br />
